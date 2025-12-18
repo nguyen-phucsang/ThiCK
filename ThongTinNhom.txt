@@ -1,5 +1,4 @@
-Nguyễn Vũ Thủy Tiên- user1 (main-remote)-ngit-jsjs <ngtien1924@gmail.com>-
-Văn Thanh Sơn - user2 - vanthanhson <son@gmail.com>
-Nguyễn Phúc Sang - user3 - stu <stu@gmail.com> - nguyen-phucsang (chả biết sao trên gitk hiện stu nhưng tên repo bạn là nguyen-phucsang)
-
+Nguyễn Vũ Thủy Tiên- user1 (main-remote)-ngit-jsjs <ngtien1924@gmail.com>-DH52201547 - D22-TH08
+Văn Thanh Sơn - user2 - vanthanhson <son@gmail.com> -DH52201377 -D22-TH01
+Nguyễn Phúc Sang - user3 - stu <stu@gmail.com> - nguyen-phucsang (chả biết sao trên gitk hiện stu nhưng tên repo bạn là nguyen-phucsang) -DH52201358 - D22-TH01
 link github: github.com/nguyen-phucsang/ThiCK.git
